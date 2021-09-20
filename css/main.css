@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 .container{
-    width: 100vw;
+    width: 1200px;
+    margin: 0 auto;
     background: gray;
     padding: 2% 10%;
 }
